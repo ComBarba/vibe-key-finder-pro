@@ -12,29 +12,29 @@
 
 ## 🚀 Sobre o Projeto
 
-O **VIBE KEY FINDER PRO** é um aplicativo de desktop avançado desenvolvido em Python[cite: 1], projetado especificamente para produtores musicais, DJs e engenheiros de som. Ele unifica análise espectral de alta precisão[cite: 1], mixagem harmónica (Roda Camelot) e ferramentas de IA para otimizar o fluxo de trabalho no estúdio.
+O **VIBE KEY FINDER PRO** é um aplicativo de desktop avançado desenvolvido em Python, projetado especificamente para produtores musicais, DJs e engenheiros de som. Ele unifica análise espectral de alta precisão, mixagem harmónica (Roda Camelot) e ferramentas de IA para otimizar o fluxo de trabalho no estúdio.
 
 ---
 
 ## ✨ Principais Funcionalidades
 
 * 🔍 **Análise Espectral Completa:** Calcula automaticamente o BPM, tom musical principal e correspondência na Roda Camelot para ficheiros MP3, WAV, FLAC e M4A.
-* 🎛️ **Player Integrado & Waveform Interativa:** Pré-escuta de faixas com controle de volume, loop, modo aleatório e visualização de forma de onda com suporte a saltos de reprodução por clique[cite: 1].
+* 🎛️ **Player Integrado & Waveform Interativa:** Pré-escuta de faixas com controle de volume, loop, modo aleatório e visualização de forma de onda com suporte a saltos de reprodução por clique.
 * 🧠 **Gerador de Prompts Neurais:** Cria relatórios espectrais e prompts estruturados focados em ferramentas de IA (como Suno e Udio).
 * 🔀 **Smart Mix:** Encontra automaticamente faixas compatíveis na tua biblioteca com base na harmonia musical.
 * 🎨 **Personalização Visual:** Interface moderna em modo escuro/claro, paletas de cores customizáveis e modo RGB dinâmico.
 * 💡 **Dicas Pro Integradas:** Centenas de dicas profissionais rotativas focadas em DAWs (FL Studio, Ableton Live) e softwares de DJ (Virtual DJ, Rekordbox).
-* 📂 **Gestão e Exportação:** Suporte a *Drag and Drop*, extração de capas de álbum (*album art*), exportação de relatórios em CSV e renomeação em lote[cite: 1].
+* 📂 **Gestão e Exportação:** Suporte a *Drag and Drop*, extração de capas de álbum (*album art*), exportação de relatórios em CSV e renomeação em lote.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
 O projeto foi construído utilizando bibliotecas robustas do ecossistema Python:
-* **Interface Gráfica:** `CustomTkinter`, `TkinterDnD`[cite: 1]
-* **Análise de Áudio:** `Librosa`, `Pyloudnorm`[cite: 1]
-* **Manipulação de Mídia:** `Mutagen`, `Pygame`, `ImageIO-FFmpeg`[cite: 1]
-* **Gráficos:** `Matplotlib`[cite: 1]
+* **Interface Gráfica:** `CustomTkinter`, `TkinterDnD`
+* **Análise de Áudio:** `Librosa`, `Pyloudnorm`
+* **Manipulação de Mídia:** `Mutagen`, `Pygame`, `ImageIO-FFmpeg`
+* **Gráficos:** `Matplotlib`
 
 ---
 
