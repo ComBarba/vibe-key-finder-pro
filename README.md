@@ -1,5 +1,8 @@
 # ⚡ VIBE KEY FINDER PRO - Studio Edition ⚡
 
+<img width="1912" height="1051" alt="image" src="https://github.com/user-attachments/assets/93a3fad2-9831-4924-9b4d-39fa60450181" />
+
+
 **O assistente definitivo de análise harmónica, gestão de áudio e inteligência artificial para produtores e DJs.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -69,3 +72,6 @@ python VibeKeyPro.py
 Criado por **ComBarba / DezDesign**.
 
 ```
+
+<img width="1912" height="1051" alt="image" src="https://github.com/user-attachments/assets/fad2cb1c-65b0-4d61-bce5-9be13e32fc46" />
+
